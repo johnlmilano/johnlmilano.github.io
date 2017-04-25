@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tackling the Code Monster!"
-date:   2017-04-25 05:22:24 +0000
+date:   2017-04-25 01:22:25 -0400
 ---
 
 
@@ -12,7 +12,5 @@ In my most recent job I was managing a team of healthcare integration developers
 I come from a technical background and have always been the person who got it done. Not always by myself, I collobrated with tons of people, but I could always count on myself to be part of the solution, not just pass the buck on to a direct report and drive home while they are in the office working most of the night. So when another employment opportunity presented itself I left and planned on starting something new. Little did I know that this something new was not going to work out and I would be left without a job.
 
 Honestly it wasn't the worst thing that has happened to me and I felt pretty burnt out so I decided to take some time away and figure out what my next move was going to be. After a few months of R&R I started looking for work. Wow, was I surprised when finding a job was way more difficult than I thought it was going to be. I found myself reassessing my marketability and found myself liking the solititude of being at home, by myself, looking for jobs. I was regularly browsing LinkedIn to connect to former collegues and I came across an article that stated how Google and other tech giants were changing their hiring criteria to not include a 4 year degree as a requirement, due largely in part to new candiates being considered for employeement after completing coding boot camps. This is when I began my research. I started looking at different schools and watching vdieos on the intracacies of attending coding boot camps and I was enamoured. I decided right then that I was going to attend a school online and complete the full stack web developer program to finally tackle the code monster that was stopping me from being the creator of things.
-
-![](https://stocksnap.io/photo/6PZDKBFQND)
 
 Oh yeah, in my time being out of work I also assembled a 3d printer from a kit, that was pretty cool too.
