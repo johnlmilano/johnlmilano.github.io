@@ -1,0 +1,21 @@
+# Site settings
+title: Learning to Code the Hard Way
+header-img: img/home-bg.png
+email: johnlmilano@gmail.com
+copyright_name: johnlmilano
+description: > # this means to ignore newlines until "baseurl:"
+  Hard Code
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: johnlmilano
+github_username:  johnlmilano
+learn_profile: johnlmilano
+email_username: johnlmilano@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
